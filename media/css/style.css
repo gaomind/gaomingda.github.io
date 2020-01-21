@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
     font-family: 'Fira Code Medium';
-    src: url('https://static.meowv.com/fonts/FiraCode-Medium.woff2') format('woff2'), url("https://static.meowv.com/fonts/FiraCode-Medium.woff") format("woff"), url('../fonts/FiraCode-Medium.woff') format('woff'), url('../fonts/FiraCode-Medium.woff2') format('woff2');
+    src: url('https://static.meowv.com/fonts/FiraCode-Medium.woff2') format('woff2'), url("https://static.meowv.com/fonts/FiraCode-Medium.woff") format("woff"), url('../fonts/museo500-regular-webfont.woff') format('woff'), url('../fonts/museo500-regular-webfont.woff2') format('woff2');
     font-weight: 500;
     font-style: normal
 }
@@ -233,6 +233,7 @@ a {
 }
 
 a:hover {
+    font-family: Menlo, Monaco, Consolas, Courier New, monospace;
     color: #2d96bd;
     text-decoration: none;
     transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
@@ -1216,6 +1217,7 @@ a.toc-link {
         background: #fff;
     }
     .navbar-mobile .container .navbar-header {
+        font-family: Menlo, Monaco, Consolas, Courier New, monospace;
         display: flex;
         justify-content: space-between;
         align-items: center;

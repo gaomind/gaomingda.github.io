@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gaomingda.github.io</id>
     <title>MIND</title>
-    <updated>2020-01-21T09:21:54.350Z</updated>
+    <updated>2020-01-21T10:02:14.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gaomingda.github.io"/>
     <link rel="self" href="https://gaomingda.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>「 想来生活无非是痛苦和美丽 」</subtitle>
     <logo>https://gaomingda.github.io/images/avatar.png</logo>
     <icon>https://gaomingda.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MIND</rights>
